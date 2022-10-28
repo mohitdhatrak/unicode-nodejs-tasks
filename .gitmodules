@@ -4,3 +4,6 @@
 [submodule "task2-backend-nodejs"]
 	path = task2-backend-nodejs
 	url = https://github.com/mohitdhatrak/task2-backend-nodejs.git
+[submodule "task3-backend-nodejs"]
+	path = task3-backend-nodejs
+	url = https://github.com/mohitdhatrak/task3-backend-nodejs.git
