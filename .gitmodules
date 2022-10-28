@@ -7,3 +7,6 @@
 [submodule "task3-backend-nodejs"]
 	path = task3-backend-nodejs
 	url = https://github.com/mohitdhatrak/task3-backend-nodejs.git
+[submodule "task4-nodejs-delete-update"]
+	path = task4-nodejs-delete-update
+	url = https://github.com/mohitdhatrak/task4-nodejs-delete-update.git
